@@ -22,9 +22,9 @@
 - type: biomeMarkerLayer
   id: RandomTendrilLavaland
   prototype: SpawnerRandomTendrilLavaland
-  radius: 64
-  maxCount: 24
-  size: 512
+  radius: 32
+  maxCount: 12
+  size: 128
 
 - type: biomeMarkerLayer
   id: ChasmLavaland
